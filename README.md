@@ -1,1 +1,13 @@
-Màn yuè méi. Wǒ céngjīng wánguò hěnduō de fúwùqì zhī yī, céngjīng shì wǒ wánguò de suǒyǒu fúwùqì zhōng zuì xǐhuān de fúwùqì. Yībān lái shuō, wǒ jiéjiāole hěnduō péngyǒu, yě jiéjiāole hěnduō dírén, érqiě tōngcháng zhǐshì tígāo wǒ de PvP jìnéng. Xiànzài, zài Mineberry zhōng, dāngrán huì fāshēng yīxiē qíguài de shìqíng. Yǒu yīcì, dāng fúwùqì túrán chóngxīn qǐdòng shí, shènzhì zài língchén 1 diǎn yě méiyǒu, zhè shì mineberry tōngcháng chóngxīn qǐdòng de shíjiān, zhèyàng tāmen jiù kěyǐ qīngchú suǒyǒu yánchí hé qítā dōngxī. Yóuqí shì wǒ zài fúwùqì shàng yù dào de gùzhàng. Gùzhàng shì……zhēn de bù chángjiàn——nǐ kěyǐ zài rènhé fúwùqì shàng de rènhé dìfāng kàn dào tā, rúguǒ kěyǐ dehuà, dāngrán kěyǐ wánchéng tā. Ń, lìng rén jīngyà de shì, kěyǐ zài zhěnggè Minecraft(yóuqí shì zài Mineberry) zhōng fāxiàn nǎxiē gùzhàng, jǐnguǎn tā shì yīgè wánměi de pvp fúwùqì, dàn qízhōng yě bāohán hěnduō gùzhàng. Jīntiān, wǒ jiāng tǎolùn 5 gè gùzhàng, àn cóngxiǎo dào dà páixù, nǐ huì kàn dào rénmen rúhé bùzhī bù jué de zhǎodào zhèxiē gùzhàng shì duōme lìng rén zhènjīng.
+<p align="center">
+  <a href="https://github.com/xlzxq"><img src="balls.png" alt="shikimori best"></a>
+</p>
+
+<h1 align="center">Hi, I think i'm <a href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXanJlp8fSM6vn8JGF8Oym7VnL3GkBA8Xu2QN3TYD3dDzhE8Nc">Bruce Lee</a></h1>
+
+<p align="center">
+  <strong><a href="https://youtube.com/xlzxq">YouTube</a></strong> |
+  <strong><a href="https://namemc.com/profile/Jzul.2">NameMC</a></strong>
+</p>
+
+<p align="center">I currently work on random things like Minecraft hack clients and also like anime.</p>
+<p align="center">Discord: Jzul#7836</p>
