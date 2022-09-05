@@ -6,7 +6,9 @@
 
 <p align="center">
   <strong><a href="https://youtube.com/xlzxq">YouTube</a></strong> |
-  <strong><a href="https://namemc.com/profile/Jzul.2">NameMC</a></strong>
+  <strong><a href="https://namemc.com/profile/Jzul.2">NameMC</a></strong> |
+  <strong><a href="https://twitter.com/notxlzxq">Twitter</a></strong> |
+  <strong><a href="https://steamcommunity.com/id/xlzxq/">Steam</a></strong>
 </p>
 
 <p align="center">I currently work on random things like Minecraft hack clients and also like anime.</p>
