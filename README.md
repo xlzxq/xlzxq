@@ -11,5 +11,5 @@
   <strong><a href="https://steamcommunity.com/id/xlzxq/">Steam</a></strong>
 </p>
 
-<p align="center">I currently work on things, like a Minecraft Hack Client (called Revamp, learn more about it on my YouTube) and other small projects revolving Java. I also have an interest in anime.</p>
+<p align="center">I currently work on things, like a Minecraft Hack Client (called fiveware, learn more about it on my YouTube) and other small projects involving Java and (soon) JavaScript.</p>
 <p align="center">If you like to contact me, you can add me on Discord (Jzul#7836)</p>
