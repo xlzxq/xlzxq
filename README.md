@@ -1,15 +1,11 @@
-<p align="center">
-  <a href="https://github.com/xlzxq"><img src="balls.png" alt="shikimori best"></a>
-</p>
-
-<h1 align="center">Hi, I think i'm <a href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXanJlp8fSM6vn8JGF8Oym7VnL3GkBA8Xu2QN3TYD3dDzhE8Nc">Bruce Lee</a></h1>
+<h1 align="center">This wigga really thinks he's <a href="https://www.youtube.com/watch?v=Pn8N0SGjLFk">Bruce Lee</a></h1>
 
 <p align="center">
   <strong><a href="https://youtube.com/xlzxq">YouTube</a></strong> |
   <strong><a href="https://namemc.com/profile/xlzxq.1">NameMC</a></strong> |
   <strong><a href="https://twitter.com/notxlzxq">Twitter</a></strong> |
-  <strong><a href="https://steamcommunity.com/id/xlzxq/">Steam</a></strong>
+  <strong><a href="https://steamcommunity.com/id/xlzxq/">Steam</a></strong> |
+  <strong><a href="https://discord.com/users/498544507227471873">Discord</a></strong>
 </p>
 
-<p align="center">I currently work on things, like a Minecraft Hack Client (called fiveware, learn more about it on my YouTube) and other small projects involving Java and (soon) JavaScript.</p>
-<p align="center">If you like to contact me, you can add me on Discord.</p>
+<p align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></p>
