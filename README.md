@@ -1,2 +1,2 @@
-<h1 align="center"><a href="https://discord.com/users/949351061775343667">xlzxq</a></h1>
+<h1 align="center"><a href="https://xlzxq.lol">xlzxq</a></h1>
 <p align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></p>
